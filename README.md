@@ -1,5 +1,6 @@
-# Introduction-to-Computers
-
+# Introduction-to-Computers  
+作者:神里綾華的狗  
+~~老師上的真的很.....~~
 ## 快速切換章節
 一. 在下方單元中選擇要讀單元  
 二. 點擊`點我進入`  
