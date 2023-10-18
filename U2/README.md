@@ -38,7 +38,7 @@
 ## microcomputer 
 * Microcomputers are designed to be used by `individuals`, whether in the form of PCs, `workstations` or `notebook` computers
 ```md
-微型電腦設計供個人使用，無論是個人電腦、工作站或筆記型電腦
+translate:微型電腦設計供個人使用，無論是個人電腦、工作站或筆記型電腦
 ```
 **包含**  
 1. CPU on a microchip (the microprocessor)
