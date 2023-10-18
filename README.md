@@ -14,3 +14,6 @@
   [點我進入](https://github.com/archie0732/Introduction-to-Computers/tree/main/U2)
 * unit 3  
   [點我進入](https://github.com/archie0732/Introduction-to-Computers/tree/main/U3)
+
+
+![](https://github.com/archie0732/Introduction-to-Computers/blob/main/picture/anime/ayaka005.jpg)
