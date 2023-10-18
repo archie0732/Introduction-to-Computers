@@ -62,4 +62,5 @@ Store data in the form of an electrical signal, specifically its presenceor abse
 * Assembly languages(組合語言):symbol pattern CPU dependent(與cpu相關)
 * High level languages(高階語言):symbol patternCPU independent(與cpu獨立)
 ## 其他
-[.](https://youtu.be/dQw4w9WgXcQ?si=B_DTpgtca1LjOyOw)  
+[。](https://youtu.be/dQw4w9WgXcQ?si=B_DTpgtca1LjOyOw)  
+[c-libary](https://github.com/archie0732/c-library)
