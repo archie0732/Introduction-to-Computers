@@ -10,5 +10,5 @@
 ## 章節選擇
 * unit 1    
   [點我進入](https://github.com/archie0732/Introduction-to-Computers/tree/main/U1)
-* unit 2
+* unit 2  
   [點我進入](https://github.com/archie0732/Introduction-to-Computers/tree/main/U2)
