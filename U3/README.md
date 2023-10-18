@@ -10,3 +10,22 @@
 * Cloud computing(雲端計算)
 * Big Data(大數據或巨量資料)
 
+## 單位換算
+**秒**  
+|單位名稱|全名|實際大小|
+|-------|---|--------|
+|毫秒（ms）|millisecond1| ms = 10-3秒|
+|微秒（μs)|microsecond1|μs = 10-6秒|
+|奈秒（ns）|nanosecond1 |ns = 10-9秒|
+|披秒（ps）|picosecond1| ps= 10-12秒|  
+
+**容量**
+
+![](https://github.com/archie0732/Introduction-to-Computers/blob/main/picture/unit/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-18%20223213.png)  
+
+**容量-2**  
+
+![](https://github.com/archie0732/Introduction-to-Computers/blob/main/picture/unit/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-18%20223417.png)
+
+**常用的效能指標(Performance units)**  
+![](https://github.com/archie0732/Introduction-to-Computers/blob/main/picture/unit/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-18%20223615.png)
