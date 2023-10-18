@@ -1,4 +1,4 @@
-# Unit - 1
+# Unit - 1(有翻譯)
 
 ## 1-1 Turing Mode
 
@@ -20,5 +20,46 @@
    >1. four subsystem(四個子系統)
    >2. stored program concept(程式可存)
    >3. Sequential Execution of Instructions(指令依序執行)
-**four subsystem**
->1. 
+   
+**four subsystem**  
+![](https://raw.githubusercontent.com/archie0732/Introduction-to-Computers/main/picture/unit/Screen-Shot-2017-04-26-at-1.08.57-PM.webp)
+>* Memory– the storage area of programsand data(記憶體:儲存程式與資料)
+>* ALU– arithmetic/logicoperations take place(ALU:計算與邏輯)
+>* Control Unit– control Memory, ALU, and I/O(控制單元:控制記憶體、AUL與I/O)
+>* I/O-input and output
+
+## Sequential Execution of Instructions(程式依照順序執行)  
+*~The instructions are executed one after another* 
+
+  
+**The control unit**  
+* fetches(抓取)one instruction from memory
+* interpret(解讀)it
+* execute(執行)it
+* **不包含**`compile`(編譯)
+## Computer Components
+1. software(軟體)
+2. hardware(硬體)
+   >* cpu(內含ALU、控制單元等)
+   >* 記憶體
+   >* 輸入、輸出設備(例如:傳輸線)
+  
+**store data**(with binary)  <br>  
+Store data in the form of an electrical signal, specifically its presenceor absence.  
+```
+使用電子訊號儲存資料，看他是有訊號或無訊號
+```
+## algorithms(演算法)
+1. first solve the problem in a step-by-step mannerand then(一步步的解決問題)   
+2. try to find the appropriate sequenceof instructionsthat solves the problem.(正確的方式解決問題)
+
+    
+**ex:**      
+![](https://github.com/archie0732/Introduction-to-Computers/blob/main/picture/unit/375px-LampFlowchart_ZhT.svg.png)  
+[完整內容](https://zh.wikipedia.org/zh-tw/%E7%AE%97%E6%B3%95)  
+## Languages
+* Machine languages(機器語言): binary
+* Assembly languages(組合語言):symbol pattern CPU dependent(與cpu相關)
+* High level languages(高階語言):symbol patternCPU independent(與cpu獨立)
+## 其他
+[.](https://youtu.be/dQw4w9WgXcQ?si=B_DTpgtca1LjOyOw)  
