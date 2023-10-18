@@ -1,3 +1,11 @@
 # Introduction-to-Computers
 
 ## 快速切換章節
+一. 在下方單元中選擇要讀單元  
+二. 點擊`點我進入`  
+三. 進入章節後就可以選章節拉!! 
+1. 右上角三橫
+2. 選擇章節  
+![](https://github.com/archie0732/Introduction-to-Computers/blob/main/picture/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-18%20211420.png)
+* unit 1    
+  [點我進入](https://github.com/archie0732/Introduction-to-Computers/tree/main/U1)
