@@ -7,5 +7,6 @@
 1. 右上角三橫
 2. 選擇章節  
 ![](https://github.com/archie0732/Introduction-to-Computers/blob/main/picture/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-18%20211420.png)
+## 章節選擇
 * unit 1    
   [點我進入](https://github.com/archie0732/Introduction-to-Computers/tree/main/U1)
