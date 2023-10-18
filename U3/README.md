@@ -14,10 +14,10 @@
 **秒**  
 |單位名稱|全名|實際大小|
 |-------|---|--------|
-|毫秒（ms）|millisecond1| ms = 10-3秒|
-|微秒（μs)|microsecond1|μs = 10-6秒|
-|奈秒（ns）|nanosecond1 |ns = 10-9秒|
-|披秒（ps）|picosecond1| ps= 10-12秒|  
+|毫秒（ms）|millisecond| 1ms = 10-3秒|
+|微秒（μs)|microsecond|1μs = 10-6秒|
+|奈秒（ns）|nanosecond |1ns = 10-9秒|
+|披秒（ps）|picosecond| 1ps= 10-12秒|  
 
 **容量**
 
